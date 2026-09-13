@@ -1,4 +1,4 @@
----
+---ActivityManager: Force stopping com.whatsapp ... from pid ... (system)
 manufacturer:
     - general
 ---
